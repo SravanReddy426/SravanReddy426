@@ -1,6 +1,5 @@
 # Sravan Reddy  
-.NET Full Stack Developer | Cloud & Enterprise Applications
-
+.NET Full Stack Developer
 ## 🔗 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-sravan.nalimela%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sravan.nalimela@outlook.com)
