@@ -68,7 +68,7 @@ I have worked extensively in **enterprise and regulated environments**, deliveri
 ## 📌 Project 1: Digital Loan Origination Platform  
 **Organization:** Wells Fargo  
 **Role:** .NET Full Stack Developer  
-**Duration:** Jan 2025 – Present  
+**Duration:** Aug 2020 - July 2023
 
 ### 📝 Project Overview
 Developed and enhanced a **cloud-based Digital Loan Origination Platform** to automate and streamline **consumer and small business loan processing**.  
@@ -106,36 +106,6 @@ The application integrates securely with **internal banking systems** and **exte
 - **Cloud & DevOps:** Azure, Azure DevOps CI/CD, Azure AD B2C, Azure Key Vault  
 - **Testing & Tools:** xUnit, Swagger, Postman  
 - **Methodology:** Agile / Scrum  
-
----
-
-## 📌 Project 2: Multi-Channel Shopping Cart & Payment Platform  
-**Organization:** Air India Express  
-**Role:** Software Engineer  
-**Duration:** Aug 2020 – Jul 2023  
-
-### 📝 Project Overview
-Enhanced and maintained a **multi-channel Shopping Cart system** supporting **Web, Mobile, and Contact Center** platforms.  
-The platform enabled customers to:
-- Add flights and ancillary products to cart  
-- Complete purchases using **Debit Card, Credit Card, and Net Banking**  
-
-The system was built for **high availability, fast performance, and secure transactions**.
-
----
-
-### 🎯 Key Responsibilities
-- Coordinated full-stack development including **design, development, testing, deployment, and support**.
-- Built **responsive frontend interfaces** using **Angular and Bootstrap** for cross-device compatibility.
-- Implemented **business logic and validations** using **C# and OOP principles**.
-- Developed backend services using **.NET Web API** for seamless data processing and integrations.
-- Optimized database interactions using **Entity Framework and MS SQL Server**.
-- Designed and optimized **stored procedures**, significantly reducing response times.
-- Deployed and managed applications on **Azure App Services**, ensuring scalability and security.
-- Performed **unit testing using NUnit**, reducing production defects.
-- Managed version control and team collaboration using **TFS and Visual Studio**.
-- Created and maintained **technical documentation** for APIs and application workflows.
-- Provided **post-deployment support**, resolving issues and improving system performance.
 
 ---
 
